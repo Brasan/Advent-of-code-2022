@@ -5,7 +5,7 @@ using System.Linq;
 
 public class Task1
 {
-	public static void Main()
+	public static void Main1()
 	{
 		int currentCalories = 0;
 		string[] inputLines = File.ReadAllLines("1/input.txt");
